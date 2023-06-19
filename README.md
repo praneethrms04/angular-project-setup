@@ -1,15 +1,7 @@
 
+Refer this Docs : 
 
-To create a Angular project 
-
-Angular CLI  :
-           npm install -g @angular/cli 
-           ng version
-Create new Angular application
-         ng new my-app
-         cd my-app
-         ng serve --open (port 4200 ) to change port ng serve  –port 3000
-
+https://docs.google.com/document/d/19a-Aw6nZSd_OArOqqHqfbT-B7eKPMwSvSOY2YC9bQ_8/edit?pli=1
          
 
 
